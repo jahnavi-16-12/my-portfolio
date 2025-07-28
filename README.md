@@ -2,6 +2,9 @@
 
 A modern, responsive personal portfolio website to showcase my skills, projects, education, certifications, and work experience as a Full Stack Developer and Machine Learning Enthusiast.
 
+
+🔗 **Live Site:** [https://my-portfolio-indol-ten-47.vercel.app](https://my-portfolio-indol-ten-47.vercel.app)
+
 ## ✨ Features
 
 - Professional landing page with hero section
