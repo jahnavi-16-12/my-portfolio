@@ -9,9 +9,18 @@ import aiid from "../assets/aiid.png";
 import facebook from "../assets/facebook.png";
 import spotify from "../assets/spotify.png";
 import portfolio1 from "../assets/portfolio1.png";
+import shine from "../assets/shine.png";
 
 const Projects = () => {
   const projects = [
+    {
+      title: "Shine Through Shadows – Mental Health Support Platform",
+      description: "A mental health platform offering mood tracking, AI chatbot support, psychologist consultations, and personalized assessments to improve emotional well-being.",
+      image: shine,
+      technologies: ["React.js", "Node.js", "Firebase", "MongoDB", "Chart.js"],
+      liveUrl: "https://github.com/jahnavi-16-12/Shine-Through-Shadows-Mental-Health-Support-Platform",
+      githubUrl: "https://github.com/jahnavi-16-12/Shine-Through-Shadows-Mental-Health-Support-Platform"
+    },
     {
       title: "Facebook Sentiment Analysis",
       description: "This project analyzes the sentiment of Facebook posts using Python and the Facebook Graph API. It uses Natural Language Processing (NLP) and the TextBlob library to classify posts as positive, negative, or neutral. Results are visualized for better understanding.",
